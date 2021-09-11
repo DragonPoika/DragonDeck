@@ -14,4 +14,6 @@ Me, DragonPoika :)
 *Hedgeshroom*,
 *Glow Elk*,
 *Mossy Squirrel*,
-*ToastedDragon*
+*ToastedDragon*,
+*Pumpkin raven*,
+*Goathorn crab*
