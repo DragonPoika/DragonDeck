@@ -10,10 +10,11 @@ DragonDeck is a Minecraft trading card datapack for MC1.17
 Me, DragonPoika :)
 
 ***Notes***
-*/give @s paper{CustomModelData:448001} 1*,
+*/give @s paper{CustomModelData:4480001} 1*,
 *Hedgeshroom*,
 *Glow Elk*,
 *Mossy Squirrel*,
 *ToastedDragon*,
 *Pumpkin raven*,
-*Goathorn crab*
+*Goathorn crab*,
+*execute as <who_you_want> at @s run tellraw @a {"nbt":"SelectedItem.tag.CardHealth","entity":"@p"}*,
